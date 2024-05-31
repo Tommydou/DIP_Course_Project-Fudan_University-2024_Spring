@@ -8,3 +8,5 @@
 提取码：1qw3
 
 运行 test.py 请将模型放在 ../ckpt/RESIDE_ITS/ 下
+
+本项目参考：https://github.com/zijundeng/DM2F-Net
